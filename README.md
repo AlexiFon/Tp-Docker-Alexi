@@ -118,7 +118,7 @@ CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS       
 
 ### 4. Accédez à la page dans votre navigateur pour voir la page par défaut de Nginx.
 
-![alt text](nginxsite.png)
+![alt text](captureecran/nginxsite.png)
 
 ### 5. Arrêtez le conteneur :
 docker stop mon_nginx
@@ -131,3 +131,9 @@ docker rm mon_nginx
 
 @AlexiFon ➜ /workspaces/codespaces-blank (feature/exercice4) $ docker rm mon_nginx
 mon_nginx
+
+## Exercice : Déploiement d'une application Python Flask
+
+![alt text](captureecran/dockerbuild.png)
+
+![alt text](captureecran/dockerrunflaskapp.png)
