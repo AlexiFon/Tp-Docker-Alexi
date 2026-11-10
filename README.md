@@ -140,3 +140,10 @@ mon_nginx
 
 Résultat sur le port 5000 :
 ![alt text](captureecran/resulthelloworld.png)
+
+## Exercice : Utilisation de docker compose
+
+![alt text](captureecran/dockercomposebuild.png)
+
+Résultat sur le port 5000:
+![alt text](captureecran/resultmongo.png)
