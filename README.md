@@ -137,3 +137,6 @@ mon_nginx
 ![alt text](captureecran/dockerbuild.png)
 
 ![alt text](captureecran/dockerrunflaskapp.png)
+
+Résultat sur le port 5000 :
+![alt text](captureecran/resulthelloworld.png)
